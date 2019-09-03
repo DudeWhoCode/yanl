@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yet Another News Letter</title>
-    <link>http://yanl.dev/</link>
+    <link>https://yanl.dev/</link>
     <description>Recent content on Yet Another News Letter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://yanl.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yanl.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FAQ</title>
-      <link>http://yanl.dev/faq/</link>
+      <link>https://yanl.dev/faq/</link>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
       
-      <guid>http://yanl.dev/faq/</guid>
+      <guid>https://yanl.dev/faq/</guid>
       <description>Why yet another newsletter?
 Why not? How is it going to be structured?
 First few issues will be loosely structured just for me to experiment with the format.
@@ -25,10 +25,10 @@ I want to keep this newsletter byte sized. I will talk about sofware as well as 
     
     <item>
       <title>indexintro</title>
-      <link>http://yanl.dev/intro/</link>
+      <link>https://yanl.dev/intro/</link>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
       
-      <guid>http://yanl.dev/intro/</guid>
+      <guid>https://yanl.dev/intro/</guid>
       <description>Hi I am Naren. You probably should&amp;rsquo;ve seen me somewhere on internet as @DudeWhoCode, or probably not.
 Either way this is an opininated newsletter on my journey in software engineering, learnings, personal growth, experiments, articles and of course funny thoughts on bi-weekly basis.
 Subscribe here Enter your email address</description>
