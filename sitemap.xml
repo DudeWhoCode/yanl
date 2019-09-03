@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yanl.dev/about/</loc>
+    <loc>http://yanl.dev/faq/</loc>
     <lastmod>1970-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yanl.dev/</loc>
+    <loc>http://yanl.dev/</loc>
     <lastmod>1970-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yanl.dev/intro/</loc>
+    <loc>http://yanl.dev/intro/</loc>
     <lastmod>1970-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yanl.dev/categories/</loc>
+    <loc>http://yanl.dev/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yanl.dev/tags/</loc>
+    <loc>http://yanl.dev/tags/</loc>
     <priority>0</priority>
   </url>
   
